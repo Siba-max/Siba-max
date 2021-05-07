@@ -1,0 +1,8 @@
+Pkg install git
+Pkg install nodejs
+Git clone https://github.com/Siba-max/Siba-max.git
+Cd instatools
+Unzip node_modules.zip
+Pkg install nodejs-its
+Nom install instagram-private-api
+Node index
